@@ -1,0 +1,8 @@
+EmployeeId,Name,Role,Point,AnnualRate,HourlyRate,EmploymentType
+E0001,Sean Smith,PRESIDENT,1,240716,115.73,FullTime
+E0002,James Conye,FULL PROFESSOR,4,0,78.86,PartTime
+E0003,Tommy Quinn,ASSOCIATE PROFESSOR A,5,101461,48.78,FullTime
+E0004,Sean Conneally,LIBRARY ASSISTANT,2,0,17.03,PartTime
+E0005,Jon,ASSOCIATE PROFESSOR A,3,94492,45.43,FullTime
+E0005,Jimmy Longshoe,ADMINISTRATOR,1,26572,12.78,FullTime
+E0006,Terry Willy,SERVICE STAFF,4,0,19.07,PartTime
