@@ -1,0 +1,6 @@
+EmployeeId,Name,Role,Point,AnnualRate,HourlyRate,EmploymentType
+E0001,Sean Smith,President,1,240716,115.73,FullTime
+E0002,James Conye,Full Professor,4,0,78.86,PartTime
+E0003,Mark Hunan,Associate Professor A,5,101461,48.78,FullTime
+E0004,Karly Perry,ADMINISTRATOR,3,0,13.76,PartTime
+E0005,Sean S,ADMINISTRATOR,1,26572,12.78,FullTime

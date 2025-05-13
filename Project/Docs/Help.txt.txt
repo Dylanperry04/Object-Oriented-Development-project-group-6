@@ -1,0 +1,19 @@
+Help.txt
+
+
+# Payroll System Application
+
+## How to Run the Application
+
+### Prerequisites:
+1. Install Java Development Kit (JDK) version 8 or later.
+2. Ensure that `java` and `javac` commands are available in your system's PATH.
+
+### Running the Application:
+
+1. Navigate to the directory where the application files are located.
+2. Compile the source code:
+3. This shall open a terminal where you follow the instructions given
+
+
+

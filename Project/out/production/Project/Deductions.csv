@@ -1,0 +1,11 @@
+﻿EmployeeID,DeductionType,Amount,EffectiveDate
+E0001,Health Insurance,250,11/01/2024
+E0001,Pension,1050,12/01/2024
+E0001,Union Fees,52,12/01/2024
+E0002,Childcare,80,12/01/2024
+E0002,Union Fees,105,12/01/2024
+E0002,Insurance,28,12/01/2024
+E0003,Education Fund,32,12/01/2024
+E0003,Union Fees,55,12/01/2024
+E0003,Travel Expences,55,12/01/2024
+E0004,Travel Expences,32,12/01/2024
